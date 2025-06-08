@@ -1,5 +1,5 @@
-
-
+## Project structure
+```
 project_root/
 ├── src/
 │   ├── config.py           # 命令列參數定義
@@ -21,7 +21,4 @@ project_root/
 │   └── test_model.py
 ├── requirements.txt
 └── run_experiments.py      # CLI 入口：啟動所有 Ablation 實驗
-
-  --rolling-forecast \
-  --forecast-horizon 3 \
---retrain-per-step \
+```
