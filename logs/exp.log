@@ -1,0 +1,902 @@
+2025-06-08 17:54:26,148 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 17:54:26,162 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 17:54:26,162 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 17:54:26,262 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:02:38,365 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:02:38,380 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:02:38,381 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:03:59,172 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:03:59,183 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:03:59,183 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:03:59,274 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:05:00,359 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:05:00,373 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:05:00,373 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:05:00,472 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:06:01,157 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:06:01,169 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:06:01,169 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:06:01,254 | INFO     | src.experiments | [no_weather] No covariates used
+2025-06-08 18:06:01,255 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:07:16,699 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:07:16,712 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:07:16,712 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:07:16,813 | INFO     | src.experiments | [no_weather] No covariates used
+2025-06-08 18:07:16,815 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:08:48,912 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:08:48,924 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:08:48,924 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:08:49,011 | INFO     | src.experiments | [no_weather] No covariates used
+2025-06-08 18:08:49,013 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:12:30,881 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:12:30,894 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:12:30,894 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:12:30,983 | INFO     | src.experiments | [no_weather] No covariates used
+2025-06-08 18:12:30,985 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:16:22,311 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:16:22,323 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:16:22,323 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:16:22,412 | INFO     | src.experiments | [no_weather] No covariates used
+2025-06-08 18:16:22,414 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:40:58,491 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:40:58,505 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:40:58,505 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:40:58,617 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 18:40:58,629 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:41:27,049 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:41:27,063 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:41:27,064 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:41:27,168 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 18:41:27,171 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:51:06,027 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:51:06,040 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:51:06,040 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:51:06,147 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 18:51:06,150 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:57:24,810 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:57:24,821 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:57:24,821 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:57:24,918 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 18:57:24,921 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:58:31,031 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:58:31,043 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:58:31,043 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:58:31,138 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 18:58:31,141 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:59:35,485 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:59:35,498 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:59:35,499 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:59:35,599 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 18:59:35,601 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 18:59:55,864 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 18:59:55,877 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 18:59:55,878 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 18:59:55,975 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 18:59:55,977 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:01:29,708 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:01:29,719 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:01:29,720 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:01:29,816 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:01:29,820 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:04:27,574 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:04:27,587 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:04:27,587 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:04:27,682 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:04:27,685 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:07:33,285 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:07:33,297 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:07:33,297 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:07:33,394 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:07:33,397 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:09:10,427 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:09:10,439 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:09:10,439 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:09:10,534 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:09:10,536 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:10:09,850 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:10:09,863 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:10:09,863 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:10:09,960 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:10:09,962 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:10:56,154 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:10:56,166 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:10:56,166 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:10:56,260 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:10:56,262 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:11:47,302 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:11:47,314 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:11:47,314 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:11:47,407 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:11:47,410 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:11:56,034 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:11:56,046 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:11:56,047 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:11:56,155 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:11:56,158 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:28:55,361 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:28:55,375 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:28:55,376 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:28:55,490 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:29:55,571 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:29:55,583 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:29:55,583 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:29:55,677 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:30:10,614 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:30:10,627 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:30:10,628 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:30:10,734 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:30:10,737 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:32:50,189 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:32:50,202 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:32:50,203 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:32:50,300 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:32:50,303 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:37:04,201 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:37:04,214 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:37:04,214 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:37:04,311 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:37:04,315 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:38:59,956 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:38:59,969 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:38:59,969 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:39:00,085 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:39:00,088 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:41:46,622 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:41:46,636 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:41:46,636 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:41:46,735 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:41:46,738 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:43:27,295 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:43:27,310 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:43:27,310 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:43:27,409 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:43:27,412 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:44:29,275 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:44:29,286 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:44:29,286 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:44:29,375 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:44:29,378 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:46:54,305 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 19:46:54,319 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 19:46:54,319 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 19:46:54,412 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 19:46:54,414 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 19:47:45,571 | INFO     | darts.models.forecasting.forecasting_model | Chosen parameters: {'lags': 24, 'lags_past_covariates': None, 'lags_future_covariates': [0], 'output_chunk_length': 3, 'n_estimators': 50, 'max_depth': 10, 'random_state': 42}
+2025-06-08 19:47:45,578 | INFO     | src.experiments | [no_weather] Fitting model
+2025-06-08 19:47:54,635 | INFO     | src.experiments | [no_weather] Making predictions
+2025-06-08 19:47:54,636 | INFO     | src.experiments | [no_weather] Direct predict
+2025-06-08 19:47:54,636 | ERROR    | darts.models.forecasting.regression_model | ValueError: The `future_covariates` are not long enough. Given horizon `n=3947`, `min(lags_future_covariates)=0`, `max(lags_future_covariates)=0` and `output_chunk_length=3`, the `future_covariates` have to range from 2024-02-07 04:00:00 until 2024-07-20 12:00:00 (inclusive), but they only range from 2024-07-20 13:00:00 until 2024-12-31 23:00:00.
+2025-06-08 22:54:46,772 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 22:54:46,785 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 22:54:46,785 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 22:54:46,867 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 22:55:34,703 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 22:55:34,716 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 22:55:34,716 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 22:55:34,788 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 22:55:34,791 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 22:56:11,326 | INFO     | darts.models.forecasting.forecasting_model | Chosen parameters: {'lags': 24, 'lags_past_covariates': None, 'lags_future_covariates': [0], 'output_chunk_length': 3, 'n_estimators': 50, 'max_depth': 10, 'random_state': 42}
+2025-06-08 22:56:11,329 | INFO     | src.experiments | [no_weather] Fitting model
+2025-06-08 22:56:18,289 | INFO     | src.experiments | [no_weather] Making predictions
+2025-06-08 22:56:18,289 | INFO     | src.experiments | [no_weather] Direct predict
+2025-06-08 22:56:18,289 | ERROR    | darts.models.forecasting.regression_model | ValueError: The `future_covariates` are not long enough. Given horizon `n=3947`, `min(lags_future_covariates)=0`, `max(lags_future_covariates)=0` and `output_chunk_length=3`, the `future_covariates` have to range from 2024-02-07 04:00:00 until 2024-07-20 12:00:00 (inclusive), but they only range from 2024-07-20 13:00:00 until 2024-12-31 23:00:00.
+2025-06-08 23:01:59,874 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 23:01:59,887 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 23:01:59,887 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 23:01:59,959 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 23:01:59,960 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 23:02:36,306 | INFO     | darts.models.forecasting.forecasting_model | Chosen parameters: {'lags': 24, 'lags_past_covariates': None, 'lags_future_covariates': [0], 'output_chunk_length': 3, 'n_estimators': 50, 'max_depth': 10, 'random_state': 42}
+2025-06-08 23:02:36,309 | INFO     | src.experiments | [no_weather] Fitting model
+2025-06-08 23:03:20,317 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 23:03:20,332 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-08 23:03:20,333 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-08 23:03:20,403 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-08 23:03:20,405 | INFO     | src.experiments | [no_weather] Running GridSearch
+2025-06-08 23:03:57,811 | INFO     | darts.models.forecasting.forecasting_model | Chosen parameters: {'lags': 24, 'lags_past_covariates': None, 'lags_future_covariates': [0], 'output_chunk_length': 3, 'n_estimators': 50, 'max_depth': 10, 'random_state': 42}
+2025-06-08 23:03:57,814 | INFO     | src.experiments | [no_weather] Fitting model
+2025-06-08 23:04:06,245 | INFO     | src.experiments | [no_weather] Making predictions
+2025-06-08 23:04:06,245 | INFO     | src.experiments | [no_weather] Direct predict
+2025-06-08 23:04:06,832 | INFO     | src.experiments | [no_weather] Metrics: MAE=670.0801, MSE=1797360.3506
+2025-06-08 23:04:06,842 | INFO     | src.experiments | [no_weather] Experiment finished
+2025-06-08 23:04:06,843 | INFO     | run_experiments | === Finished experiment: no_weather ===
+
+2025-06-08 23:04:06,843 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-08 23:04:06,843 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-08 23:04:06,905 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-08 23:04:06,914 | INFO     | src.experiments | [full_weather] Running GridSearch
+2025-06-08 23:08:42,963 | INFO     | darts.models.forecasting.forecasting_model | Chosen parameters: {'lags': 24, 'lags_past_covariates': 24, 'lags_future_covariates': [0], 'output_chunk_length': 3, 'n_estimators': 50, 'max_depth': 10, 'random_state': 42}
+2025-06-08 23:08:42,965 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-08 23:09:59,107 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-08 23:09:59,107 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-08 23:09:59,107 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-08 23:09:59,107 | ERROR    | darts.models.forecasting.regression_model | ValueError: The `past_covariates` are not long enough. Given horizon `n=3947`, `min(lags_past_covariates)=-24`, `max(lags_past_covariates)=-1` and `output_chunk_length=3`, the `past_covariates` have to range from 2024-07-19 13:00:00 until 2024-12-31 20:00:00 (inclusive), but they only range from 2024-07-20 13:00:00 until 2024-12-31 23:00:00.
+2025-06-08 23:17:05,448 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 23:17:05,460 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-08 23:17:05,460 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-08 23:17:05,532 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-08 23:17:05,539 | INFO     | src.experiments | [full_weather] Running GridSearch
+2025-06-08 23:21:41,619 | INFO     | darts.models.forecasting.forecasting_model | Chosen parameters: {'lags': 24, 'lags_past_covariates': 24, 'lags_future_covariates': [0], 'output_chunk_length': 3, 'n_estimators': 50, 'max_depth': 10, 'random_state': 42}
+2025-06-08 23:21:41,622 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-08 23:22:59,704 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-08 23:22:59,705 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-08 23:22:59,705 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-08 23:23:00,307 | INFO     | src.experiments | [full_weather] Metrics: MAE=688.8641, MSE=1855661.2193
+2025-06-08 23:23:00,316 | INFO     | src.experiments | [full_weather] Experiment finished
+2025-06-08 23:23:00,317 | INFO     | run_experiments | === Finished experiment: full_weather ===
+
+2025-06-08 23:23:00,317 | INFO     | run_experiments | All experiments completed successfully
+2025-06-08 23:25:15,287 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-08 23:25:15,299 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-08 23:25:15,300 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-08 23:25:15,370 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-08 23:25:15,378 | INFO     | src.experiments | [full_weather] Running GridSearch
+2025-06-08 23:33:03,375 | INFO     | darts.models.forecasting.forecasting_model | Chosen parameters: {'lags': 168, 'lags_past_covariates': 24, 'lags_future_covariates': [0], 'output_chunk_length': 3, 'n_estimators': 50, 'max_depth': 10, 'random_state': 42}
+2025-06-08 23:33:03,378 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-08 23:35:11,459 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-08 23:35:11,459 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-08 23:35:11,459 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-08 23:35:12,071 | INFO     | src.experiments | [full_weather] Metrics: MAE=680.4235, MSE=1822711.5353
+2025-06-08 23:35:12,082 | INFO     | src.experiments | [full_weather] Experiment finished
+2025-06-08 23:35:12,082 | INFO     | run_experiments | === Finished experiment: full_weather ===
+
+2025-06-08 23:35:12,082 | INFO     | run_experiments | All experiments completed successfully
+2025-06-09 00:10:39,021 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 00:10:39,038 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 00:10:39,038 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 00:10:39,110 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 00:10:39,118 | INFO     | src.experiments | [full_weather] Running GridSearch
+2025-06-09 00:18:51,284 | INFO     | darts.models.forecasting.forecasting_model | Chosen parameters: {'lags': 72, 'lags_past_covariates': 24, 'lags_future_covariates': [0], 'output_chunk_length': 3, 'n_estimators': 100, 'max_depth': 15, 'min_samples_split': 2, 'min_samples_leaf': 1, 'random_state': 42}
+2025-06-09 00:18:51,290 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 00:23:15,481 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 00:23:15,482 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 00:24:59,539 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 00:24:59,555 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 00:24:59,555 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 00:24:59,626 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 00:24:59,634 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 00:29:17,440 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 00:29:17,453 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 00:29:17,453 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 00:29:17,523 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 00:29:17,525 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 00:29:17,525 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 00:29:58,241 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 00:29:58,253 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 00:29:58,253 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 00:29:58,325 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 00:29:58,327 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 00:29:58,327 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 00:34:20,864 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 00:34:20,864 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 00:34:20,864 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 00:39:01,488 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 00:39:01,500 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 00:39:01,500 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 00:39:01,570 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 00:39:01,571 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 00:39:01,572 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 00:41:58,620 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 00:41:58,635 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 00:41:58,635 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 00:41:58,718 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 00:41:58,721 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 00:41:58,721 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 00:46:19,740 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 00:46:19,740 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 00:46:19,740 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 01:00:27,854 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 01:00:27,865 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 01:00:27,865 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 01:00:27,933 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 01:00:27,934 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 01:00:27,935 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 01:04:50,005 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:04:50,005 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:04:50,005 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 01:04:50,054 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-09 01:04:50,054 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 01:04:51,184 | INFO     | src.experiments | [full_weather] Metrics: MAE=665.6402, MSE=1733652.7740
+2025-06-09 01:04:51,195 | INFO     | src.experiments | [full_weather] Saved predictions and metrics to results
+2025-06-09 01:04:51,195 | INFO     | src.experiments | [full_weather] Experiment finished
+2025-06-09 01:04:51,199 | INFO     | run_experiments | === Finished experiment: full_weather ===
+
+2025-06-09 01:04:51,199 | INFO     | run_experiments | All experiments completed successfully
+2025-06-09 01:09:11,461 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 01:09:11,473 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 01:09:11,473 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 01:09:11,542 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 01:09:11,543 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 01:09:11,544 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 01:15:05,127 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:15:05,127 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:15:05,127 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 01:15:05,176 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-09 01:15:05,176 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 01:15:06,291 | INFO     | src.experiments | [full_weather] Metrics: MAE=646.9800, MSE=1954404.1456
+2025-06-09 01:15:06,299 | INFO     | src.experiments | [full_weather] Saved predictions and metrics to results
+2025-06-09 01:15:06,299 | INFO     | src.experiments | [full_weather] Experiment finished
+2025-06-09 01:15:06,304 | INFO     | run_experiments | === Finished experiment: full_weather ===
+
+2025-06-09 01:15:06,304 | INFO     | run_experiments | All experiments completed successfully
+2025-06-09 01:17:05,897 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 01:17:05,908 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 01:17:05,909 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 01:17:05,979 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 01:17:05,980 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 01:17:05,980 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 01:22:12,886 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:22:12,887 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:22:12,887 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 01:22:12,936 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-09 01:22:12,936 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 01:22:14,034 | INFO     | src.experiments | [full_weather] Metrics: MAE=599.2119, MSE=1584904.9855
+2025-06-09 01:22:14,044 | INFO     | src.experiments | [full_weather] Saved predictions and metrics to results
+2025-06-09 01:22:14,044 | INFO     | src.experiments | [full_weather] Experiment finished
+2025-06-09 01:22:14,048 | INFO     | run_experiments | === Finished experiment: full_weather ===
+
+2025-06-09 01:22:14,048 | INFO     | run_experiments | All experiments completed successfully
+2025-06-09 01:24:25,380 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 01:24:25,392 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 01:24:25,392 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 01:24:25,460 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 01:24:25,462 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 01:24:25,462 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 01:28:02,137 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:28:02,137 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:28:02,137 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 01:28:02,184 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-09 01:28:02,184 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 01:28:03,318 | INFO     | src.experiments | [full_weather] Metrics: MAE=653.2247, MSE=1745511.6768
+2025-06-09 01:28:03,327 | INFO     | src.experiments | [full_weather] Saved predictions and metrics to results
+2025-06-09 01:28:03,328 | INFO     | src.experiments | [full_weather] Experiment finished
+2025-06-09 01:28:03,332 | INFO     | run_experiments | === Finished experiment: full_weather ===
+
+2025-06-09 01:28:03,332 | INFO     | run_experiments | All experiments completed successfully
+2025-06-09 01:29:54,307 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 01:29:54,319 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 01:29:54,319 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 01:29:54,389 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 01:29:54,391 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 01:29:54,391 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 01:34:41,603 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:34:41,603 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:34:41,603 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 01:34:41,651 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-09 01:34:41,651 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 01:34:42,765 | INFO     | src.experiments | [full_weather] Metrics: MAE=672.4777, MSE=1715824.4820
+2025-06-09 01:34:42,785 | INFO     | src.experiments | [full_weather] Saved predictions and metrics to results
+2025-06-09 01:34:42,785 | INFO     | src.experiments | [full_weather] Experiment finished
+2025-06-09 01:34:42,790 | INFO     | run_experiments | === Finished experiment: full_weather ===
+
+2025-06-09 01:34:42,790 | INFO     | run_experiments | All experiments completed successfully
+2025-06-09 01:38:45,087 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 01:38:45,099 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 01:38:45,099 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 01:38:45,173 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 01:38:45,175 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 01:38:45,175 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 01:42:44,609 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:42:44,610 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:42:44,610 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 01:42:44,657 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-09 01:42:44,657 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 01:42:45,788 | INFO     | src.experiments | [full_weather] Metrics: MAE=622.5453, MSE=1664122.4393
+2025-06-09 01:42:45,798 | INFO     | src.experiments | [full_weather] Saved predictions and metrics to results
+2025-06-09 01:42:45,798 | INFO     | src.experiments | [full_weather] Experiment finished
+2025-06-09 01:42:45,802 | INFO     | run_experiments | === Finished experiment: full_weather ===
+
+2025-06-09 01:42:45,802 | INFO     | run_experiments | All experiments completed successfully
+2025-06-09 01:43:36,515 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 01:43:36,527 | INFO     | run_experiments | === Begin experiment: full_weather ===
+2025-06-09 01:43:36,527 | INFO     | src.experiments | [full_weather] Start experiment
+2025-06-09 01:43:36,599 | INFO     | src.experiments | [full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 01:43:36,601 | INFO     | src.experiments | [full_weather] Creating default model
+2025-06-09 01:43:36,601 | INFO     | src.experiments | [full_weather] Fitting model
+2025-06-09 01:49:05,860 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:49:05,861 | INFO     | src.experiments | [full_weather] Making predictions
+2025-06-09 01:49:05,861 | INFO     | src.experiments | [full_weather] Rolling forecast
+2025-06-09 01:49:05,917 | INFO     | src.experiments | [full_weather] Direct predict
+2025-06-09 01:49:05,917 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 01:49:07,064 | INFO     | src.experiments | [full_weather] Metrics: MAE=754.8382, MSE=2132967.1680
+2025-06-09 01:49:07,073 | INFO     | src.experiments | [full_weather] Saved predictions and metrics to results
+2025-06-09 01:49:07,073 | INFO     | src.experiments | [full_weather] Experiment finished
+2025-06-09 01:49:07,078 | INFO     | run_experiments | === Finished experiment: full_weather ===
+
+2025-06-09 01:49:07,078 | INFO     | run_experiments | All experiments completed successfully
+2025-06-09 01:51:11,549 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 01:51:11,561 | INFO     | run_experiments | === Begin experiment: no_weather ===
+2025-06-09 01:51:11,561 | INFO     | src.experiments | [no_weather] Start experiment
+2025-06-09 01:51:11,631 | INFO     | src.experiments | [no_weather] No past covariates used
+2025-06-09 01:51:11,632 | INFO     | src.experiments | [no_weather] Creating default model
+2025-06-09 01:51:11,632 | INFO     | src.experiments | [no_weather] Fitting model
+2025-06-09 01:52:59,379 | INFO     | src.experiments | [no_weather] Making predictions
+2025-06-09 01:52:59,379 | INFO     | src.experiments | [no_weather] Making predictions
+2025-06-09 01:52:59,380 | INFO     | src.experiments | [no_weather] Rolling forecast
+2025-06-09 01:52:59,422 | INFO     | src.experiments | [no_weather] Direct predict
+2025-06-09 01:53:00,554 | INFO     | src.experiments | [no_weather] Metrics: MAE=659.1052, MSE=1753035.2121
+2025-06-09 01:53:00,563 | INFO     | src.experiments | [no_weather] Saved predictions and metrics to results
+2025-06-09 01:53:00,563 | INFO     | src.experiments | [no_weather] Experiment finished
+2025-06-09 01:53:00,568 | INFO     | run_experiments | === Finished experiment: no_weather ===
+
+2025-06-09 01:53:00,568 | INFO     | run_experiments | === Begin experiment: drop_station_pressure ===
+2025-06-09 01:53:00,568 | INFO     | src.experiments | [drop_station_pressure] Start experiment
+2025-06-09 01:53:00,631 | INFO     | src.experiments | [drop_station_pressure] Using past covariates: ['sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 01:53:00,632 | INFO     | src.experiments | [drop_station_pressure] Creating default model
+2025-06-09 01:53:00,632 | INFO     | src.experiments | [drop_station_pressure] Fitting model
+2025-06-09 01:57:48,580 | INFO     | src.experiments | [drop_station_pressure] Making predictions
+2025-06-09 01:57:48,581 | INFO     | src.experiments | [drop_station_pressure] Making predictions
+2025-06-09 01:57:48,581 | INFO     | src.experiments | [drop_station_pressure] Rolling forecast
+2025-06-09 01:57:48,629 | INFO     | src.experiments | [drop_station_pressure] Direct predict
+2025-06-09 01:57:48,629 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 01:57:49,776 | INFO     | src.experiments | [drop_station_pressure] Metrics: MAE=662.6814, MSE=1717932.9640
+2025-06-09 01:57:49,785 | INFO     | src.experiments | [drop_station_pressure] Saved predictions and metrics to results
+2025-06-09 01:57:49,785 | INFO     | src.experiments | [drop_station_pressure] Experiment finished
+2025-06-09 01:57:49,790 | INFO     | run_experiments | === Finished experiment: drop_station_pressure ===
+
+2025-06-09 01:57:49,790 | INFO     | run_experiments | === Begin experiment: drop_sea_level_pressure ===
+2025-06-09 01:57:49,790 | INFO     | src.experiments | [drop_sea_level_pressure] Start experiment
+2025-06-09 01:57:49,854 | INFO     | src.experiments | [drop_sea_level_pressure] Using past covariates: ['station_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 01:57:49,855 | INFO     | src.experiments | [drop_sea_level_pressure] Creating default model
+2025-06-09 01:57:49,855 | INFO     | src.experiments | [drop_sea_level_pressure] Fitting model
+2025-06-09 02:02:37,719 | INFO     | src.experiments | [drop_sea_level_pressure] Making predictions
+2025-06-09 02:02:37,720 | INFO     | src.experiments | [drop_sea_level_pressure] Making predictions
+2025-06-09 02:02:37,720 | INFO     | src.experiments | [drop_sea_level_pressure] Rolling forecast
+2025-06-09 02:02:37,768 | INFO     | src.experiments | [drop_sea_level_pressure] Direct predict
+2025-06-09 02:02:37,769 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:02:38,875 | INFO     | src.experiments | [drop_sea_level_pressure] Metrics: MAE=684.1802, MSE=1784580.2899
+2025-06-09 02:02:38,883 | INFO     | src.experiments | [drop_sea_level_pressure] Saved predictions and metrics to results
+2025-06-09 02:02:38,883 | INFO     | src.experiments | [drop_sea_level_pressure] Experiment finished
+2025-06-09 02:02:38,890 | INFO     | run_experiments | === Finished experiment: drop_sea_level_pressure ===
+
+2025-06-09 02:02:38,890 | INFO     | run_experiments | === Begin experiment: drop_temperature ===
+2025-06-09 02:02:38,890 | INFO     | src.experiments | [drop_temperature] Start experiment
+2025-06-09 02:02:38,953 | INFO     | src.experiments | [drop_temperature] Using past covariates: ['station_pressure', 'sea_level_pressure', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:02:38,954 | INFO     | src.experiments | [drop_temperature] Creating default model
+2025-06-09 02:02:38,954 | INFO     | src.experiments | [drop_temperature] Fitting model
+2025-06-09 02:07:26,893 | INFO     | src.experiments | [drop_temperature] Making predictions
+2025-06-09 02:07:26,894 | INFO     | src.experiments | [drop_temperature] Making predictions
+2025-06-09 02:07:26,894 | INFO     | src.experiments | [drop_temperature] Rolling forecast
+2025-06-09 02:07:26,943 | INFO     | src.experiments | [drop_temperature] Direct predict
+2025-06-09 02:07:26,944 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:07:28,056 | INFO     | src.experiments | [drop_temperature] Metrics: MAE=661.5735, MSE=1701529.8799
+2025-06-09 02:07:28,064 | INFO     | src.experiments | [drop_temperature] Saved predictions and metrics to results
+2025-06-09 02:07:28,064 | INFO     | src.experiments | [drop_temperature] Experiment finished
+2025-06-09 02:07:28,071 | INFO     | run_experiments | === Finished experiment: drop_temperature ===
+
+2025-06-09 02:07:28,071 | INFO     | run_experiments | === Begin experiment: drop_dew_point_temperature ===
+2025-06-09 02:07:28,071 | INFO     | src.experiments | [drop_dew_point_temperature] Start experiment
+2025-06-09 02:07:28,132 | INFO     | src.experiments | [drop_dew_point_temperature] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:07:28,134 | INFO     | src.experiments | [drop_dew_point_temperature] Creating default model
+2025-06-09 02:07:28,134 | INFO     | src.experiments | [drop_dew_point_temperature] Fitting model
+2025-06-09 02:12:16,860 | INFO     | src.experiments | [drop_dew_point_temperature] Making predictions
+2025-06-09 02:12:16,860 | INFO     | src.experiments | [drop_dew_point_temperature] Making predictions
+2025-06-09 02:12:16,860 | INFO     | src.experiments | [drop_dew_point_temperature] Rolling forecast
+2025-06-09 02:12:16,908 | INFO     | src.experiments | [drop_dew_point_temperature] Direct predict
+2025-06-09 02:12:16,908 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:12:18,092 | INFO     | src.experiments | [drop_dew_point_temperature] Metrics: MAE=666.1306, MSE=1710830.8123
+2025-06-09 02:12:18,100 | INFO     | src.experiments | [drop_dew_point_temperature] Saved predictions and metrics to results
+2025-06-09 02:12:18,100 | INFO     | src.experiments | [drop_dew_point_temperature] Experiment finished
+2025-06-09 02:12:18,107 | INFO     | run_experiments | === Finished experiment: drop_dew_point_temperature ===
+
+2025-06-09 02:12:18,107 | INFO     | run_experiments | === Begin experiment: drop_relative_humidity ===
+2025-06-09 02:12:18,107 | INFO     | src.experiments | [drop_relative_humidity] Start experiment
+2025-06-09 02:12:18,170 | INFO     | src.experiments | [drop_relative_humidity] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:12:18,172 | INFO     | src.experiments | [drop_relative_humidity] Creating default model
+2025-06-09 02:12:18,172 | INFO     | src.experiments | [drop_relative_humidity] Fitting model
+2025-06-09 02:17:10,487 | INFO     | src.experiments | [drop_relative_humidity] Making predictions
+2025-06-09 02:17:10,488 | INFO     | src.experiments | [drop_relative_humidity] Making predictions
+2025-06-09 02:17:10,488 | INFO     | src.experiments | [drop_relative_humidity] Rolling forecast
+2025-06-09 02:17:10,535 | INFO     | src.experiments | [drop_relative_humidity] Direct predict
+2025-06-09 02:17:10,535 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:17:11,684 | INFO     | src.experiments | [drop_relative_humidity] Metrics: MAE=667.4383, MSE=1723154.0992
+2025-06-09 02:17:11,692 | INFO     | src.experiments | [drop_relative_humidity] Saved predictions and metrics to results
+2025-06-09 02:17:11,692 | INFO     | src.experiments | [drop_relative_humidity] Experiment finished
+2025-06-09 02:17:11,699 | INFO     | run_experiments | === Finished experiment: drop_relative_humidity ===
+
+2025-06-09 02:17:11,699 | INFO     | run_experiments | === Begin experiment: drop_vapor_pressure ===
+2025-06-09 02:17:11,699 | INFO     | src.experiments | [drop_vapor_pressure] Start experiment
+2025-06-09 02:17:11,761 | INFO     | src.experiments | [drop_vapor_pressure] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:17:11,763 | INFO     | src.experiments | [drop_vapor_pressure] Creating default model
+2025-06-09 02:17:11,763 | INFO     | src.experiments | [drop_vapor_pressure] Fitting model
+2025-06-09 02:21:58,990 | INFO     | src.experiments | [drop_vapor_pressure] Making predictions
+2025-06-09 02:21:58,991 | INFO     | src.experiments | [drop_vapor_pressure] Making predictions
+2025-06-09 02:21:58,991 | INFO     | src.experiments | [drop_vapor_pressure] Rolling forecast
+2025-06-09 02:21:59,040 | INFO     | src.experiments | [drop_vapor_pressure] Direct predict
+2025-06-09 02:21:59,040 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:22:00,171 | INFO     | src.experiments | [drop_vapor_pressure] Metrics: MAE=1251.3578, MSE=5231399.2622
+2025-06-09 02:22:00,180 | INFO     | src.experiments | [drop_vapor_pressure] Saved predictions and metrics to results
+2025-06-09 02:22:00,180 | INFO     | src.experiments | [drop_vapor_pressure] Experiment finished
+2025-06-09 02:22:00,188 | INFO     | run_experiments | === Finished experiment: drop_vapor_pressure ===
+
+2025-06-09 02:22:00,188 | INFO     | run_experiments | === Begin experiment: drop_avg_wind_speed ===
+2025-06-09 02:22:00,188 | INFO     | src.experiments | [drop_avg_wind_speed] Start experiment
+2025-06-09 02:22:00,250 | INFO     | src.experiments | [drop_avg_wind_speed] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:22:00,252 | INFO     | src.experiments | [drop_avg_wind_speed] Creating default model
+2025-06-09 02:22:00,252 | INFO     | src.experiments | [drop_avg_wind_speed] Fitting model
+2025-06-09 02:26:51,984 | INFO     | src.experiments | [drop_avg_wind_speed] Making predictions
+2025-06-09 02:26:51,984 | INFO     | src.experiments | [drop_avg_wind_speed] Making predictions
+2025-06-09 02:26:51,984 | INFO     | src.experiments | [drop_avg_wind_speed] Rolling forecast
+2025-06-09 02:26:52,032 | INFO     | src.experiments | [drop_avg_wind_speed] Direct predict
+2025-06-09 02:26:52,033 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:26:53,155 | INFO     | src.experiments | [drop_avg_wind_speed] Metrics: MAE=662.6792, MSE=1706841.8014
+2025-06-09 02:26:53,163 | INFO     | src.experiments | [drop_avg_wind_speed] Saved predictions and metrics to results
+2025-06-09 02:26:53,163 | INFO     | src.experiments | [drop_avg_wind_speed] Experiment finished
+2025-06-09 02:26:53,170 | INFO     | run_experiments | === Finished experiment: drop_avg_wind_speed ===
+
+2025-06-09 02:26:53,170 | INFO     | run_experiments | === Begin experiment: drop_avg_wind_direction ===
+2025-06-09 02:26:53,170 | INFO     | src.experiments | [drop_avg_wind_direction] Start experiment
+2025-06-09 02:26:53,237 | INFO     | src.experiments | [drop_avg_wind_direction] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:26:53,239 | INFO     | src.experiments | [drop_avg_wind_direction] Creating default model
+2025-06-09 02:26:53,239 | INFO     | src.experiments | [drop_avg_wind_direction] Fitting model
+2025-06-09 02:31:48,045 | INFO     | src.experiments | [drop_avg_wind_direction] Making predictions
+2025-06-09 02:31:48,046 | INFO     | src.experiments | [drop_avg_wind_direction] Making predictions
+2025-06-09 02:31:48,046 | INFO     | src.experiments | [drop_avg_wind_direction] Rolling forecast
+2025-06-09 02:31:48,093 | INFO     | src.experiments | [drop_avg_wind_direction] Direct predict
+2025-06-09 02:31:48,093 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:31:49,209 | INFO     | src.experiments | [drop_avg_wind_direction] Metrics: MAE=665.1493, MSE=1718933.1608
+2025-06-09 02:31:49,217 | INFO     | src.experiments | [drop_avg_wind_direction] Saved predictions and metrics to results
+2025-06-09 02:31:49,217 | INFO     | src.experiments | [drop_avg_wind_direction] Experiment finished
+2025-06-09 02:31:49,224 | INFO     | run_experiments | === Finished experiment: drop_avg_wind_direction ===
+
+2025-06-09 02:31:49,224 | INFO     | run_experiments | === Begin experiment: drop_precipitation ===
+2025-06-09 02:31:49,224 | INFO     | src.experiments | [drop_precipitation] Start experiment
+2025-06-09 02:31:49,287 | INFO     | src.experiments | [drop_precipitation] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:31:49,288 | INFO     | src.experiments | [drop_precipitation] Creating default model
+2025-06-09 02:31:49,288 | INFO     | src.experiments | [drop_precipitation] Fitting model
+2025-06-09 02:36:52,913 | INFO     | src.experiments | [drop_precipitation] Making predictions
+2025-06-09 02:36:52,915 | INFO     | src.experiments | [drop_precipitation] Making predictions
+2025-06-09 02:36:52,915 | INFO     | src.experiments | [drop_precipitation] Rolling forecast
+2025-06-09 02:36:52,963 | INFO     | src.experiments | [drop_precipitation] Direct predict
+2025-06-09 02:36:52,963 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:36:54,080 | INFO     | src.experiments | [drop_precipitation] Metrics: MAE=661.0459, MSE=1693100.7045
+2025-06-09 02:36:54,090 | INFO     | src.experiments | [drop_precipitation] Saved predictions and metrics to results
+2025-06-09 02:36:54,090 | INFO     | src.experiments | [drop_precipitation] Experiment finished
+2025-06-09 02:36:54,096 | INFO     | run_experiments | === Finished experiment: drop_precipitation ===
+
+2025-06-09 02:36:54,096 | INFO     | run_experiments | === Begin experiment: drop_precipitation_hours ===
+2025-06-09 02:36:54,096 | INFO     | src.experiments | [drop_precipitation_hours] Start experiment
+2025-06-09 02:36:54,160 | INFO     | src.experiments | [drop_precipitation_hours] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:36:54,162 | INFO     | src.experiments | [drop_precipitation_hours] Creating default model
+2025-06-09 02:36:54,162 | INFO     | src.experiments | [drop_precipitation_hours] Fitting model
+2025-06-09 02:41:57,009 | INFO     | src.experiments | [drop_precipitation_hours] Making predictions
+2025-06-09 02:41:57,010 | INFO     | src.experiments | [drop_precipitation_hours] Making predictions
+2025-06-09 02:41:57,010 | INFO     | src.experiments | [drop_precipitation_hours] Rolling forecast
+2025-06-09 02:41:57,057 | INFO     | src.experiments | [drop_precipitation_hours] Direct predict
+2025-06-09 02:41:57,057 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:41:58,192 | INFO     | src.experiments | [drop_precipitation_hours] Metrics: MAE=663.1442, MSE=1700404.0700
+2025-06-09 02:41:58,201 | INFO     | src.experiments | [drop_precipitation_hours] Saved predictions and metrics to results
+2025-06-09 02:41:58,201 | INFO     | src.experiments | [drop_precipitation_hours] Experiment finished
+2025-06-09 02:41:58,207 | INFO     | run_experiments | === Finished experiment: drop_precipitation_hours ===
+
+2025-06-09 02:41:58,207 | INFO     | run_experiments | === Begin experiment: drop_sunshine_hours ===
+2025-06-09 02:41:58,207 | INFO     | src.experiments | [drop_sunshine_hours] Start experiment
+2025-06-09 02:41:58,267 | INFO     | src.experiments | [drop_sunshine_hours] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:41:58,269 | INFO     | src.experiments | [drop_sunshine_hours] Creating default model
+2025-06-09 02:41:58,269 | INFO     | src.experiments | [drop_sunshine_hours] Fitting model
+2025-06-09 02:47:00,721 | INFO     | src.experiments | [drop_sunshine_hours] Making predictions
+2025-06-09 02:47:00,722 | INFO     | src.experiments | [drop_sunshine_hours] Making predictions
+2025-06-09 02:47:00,722 | INFO     | src.experiments | [drop_sunshine_hours] Rolling forecast
+2025-06-09 02:47:00,769 | INFO     | src.experiments | [drop_sunshine_hours] Direct predict
+2025-06-09 02:47:00,770 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:47:01,896 | INFO     | src.experiments | [drop_sunshine_hours] Metrics: MAE=635.1019, MSE=1638896.1134
+2025-06-09 02:47:01,905 | INFO     | src.experiments | [drop_sunshine_hours] Saved predictions and metrics to results
+2025-06-09 02:47:01,905 | INFO     | src.experiments | [drop_sunshine_hours] Experiment finished
+2025-06-09 02:47:01,911 | INFO     | run_experiments | === Finished experiment: drop_sunshine_hours ===
+
+2025-06-09 02:47:01,912 | INFO     | run_experiments | === Begin experiment: drop_pressure_trend ===
+2025-06-09 02:47:01,912 | INFO     | src.experiments | [drop_pressure_trend] Start experiment
+2025-06-09 02:47:01,974 | INFO     | src.experiments | [drop_pressure_trend] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:47:01,975 | INFO     | src.experiments | [drop_pressure_trend] Creating default model
+2025-06-09 02:47:01,975 | INFO     | src.experiments | [drop_pressure_trend] Fitting model
+2025-06-09 02:52:09,892 | INFO     | src.experiments | [drop_pressure_trend] Making predictions
+2025-06-09 02:52:09,893 | INFO     | src.experiments | [drop_pressure_trend] Making predictions
+2025-06-09 02:52:09,893 | INFO     | src.experiments | [drop_pressure_trend] Rolling forecast
+2025-06-09 02:52:09,943 | INFO     | src.experiments | [drop_pressure_trend] Direct predict
+2025-06-09 02:52:09,943 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:52:11,083 | INFO     | src.experiments | [drop_pressure_trend] Metrics: MAE=670.5586, MSE=1736640.6640
+2025-06-09 02:52:11,092 | INFO     | src.experiments | [drop_pressure_trend] Saved predictions and metrics to results
+2025-06-09 02:52:11,092 | INFO     | src.experiments | [drop_pressure_trend] Experiment finished
+2025-06-09 02:52:11,097 | INFO     | run_experiments | === Finished experiment: drop_pressure_trend ===
+
+2025-06-09 02:52:11,098 | INFO     | run_experiments | === Begin experiment: drop_solar_radiation ===
+2025-06-09 02:52:11,098 | INFO     | src.experiments | [drop_solar_radiation] Start experiment
+2025-06-09 02:52:11,165 | INFO     | src.experiments | [drop_solar_radiation] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 02:52:11,166 | INFO     | src.experiments | [drop_solar_radiation] Creating default model
+2025-06-09 02:52:11,166 | INFO     | src.experiments | [drop_solar_radiation] Fitting model
+2025-06-09 02:57:11,749 | INFO     | src.experiments | [drop_solar_radiation] Making predictions
+2025-06-09 02:57:11,749 | INFO     | src.experiments | [drop_solar_radiation] Making predictions
+2025-06-09 02:57:11,749 | INFO     | src.experiments | [drop_solar_radiation] Rolling forecast
+2025-06-09 02:57:11,799 | INFO     | src.experiments | [drop_solar_radiation] Direct predict
+2025-06-09 02:57:11,799 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 02:57:12,955 | INFO     | src.experiments | [drop_solar_radiation] Metrics: MAE=666.4685, MSE=1722116.2822
+2025-06-09 02:57:12,964 | INFO     | src.experiments | [drop_solar_radiation] Saved predictions and metrics to results
+2025-06-09 02:57:12,964 | INFO     | src.experiments | [drop_solar_radiation] Experiment finished
+2025-06-09 02:57:12,969 | INFO     | run_experiments | === Finished experiment: drop_solar_radiation ===
+
+2025-06-09 02:57:12,969 | INFO     | run_experiments | === Begin experiment: drop_saturation_vapor_pressure ===
+2025-06-09 02:57:12,969 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Start experiment
+2025-06-09 02:57:13,031 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'uv_index']
+2025-06-09 02:57:13,032 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Creating default model
+2025-06-09 02:57:13,032 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Fitting model
+2025-06-09 03:02:06,122 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Making predictions
+2025-06-09 03:02:06,123 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Making predictions
+2025-06-09 03:02:06,123 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Rolling forecast
+2025-06-09 03:02:06,175 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Direct predict
+2025-06-09 03:02:06,175 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:02:07,318 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Metrics: MAE=674.4349, MSE=1743051.5917
+2025-06-09 03:02:07,326 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Saved predictions and metrics to results
+2025-06-09 03:02:07,326 | INFO     | src.experiments | [drop_saturation_vapor_pressure] Experiment finished
+2025-06-09 03:02:07,333 | INFO     | run_experiments | === Finished experiment: drop_saturation_vapor_pressure ===
+
+2025-06-09 03:02:07,333 | INFO     | run_experiments | === Begin experiment: drop_uv_index ===
+2025-06-09 03:02:07,333 | INFO     | src.experiments | [drop_uv_index] Start experiment
+2025-06-09 03:02:07,396 | INFO     | src.experiments | [drop_uv_index] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure']
+2025-06-09 03:02:07,398 | INFO     | src.experiments | [drop_uv_index] Creating default model
+2025-06-09 03:02:07,398 | INFO     | src.experiments | [drop_uv_index] Fitting model
+2025-06-09 03:07:07,135 | INFO     | src.experiments | [drop_uv_index] Making predictions
+2025-06-09 03:07:07,136 | INFO     | src.experiments | [drop_uv_index] Making predictions
+2025-06-09 03:07:07,136 | INFO     | src.experiments | [drop_uv_index] Rolling forecast
+2025-06-09 03:07:07,184 | INFO     | src.experiments | [drop_uv_index] Direct predict
+2025-06-09 03:07:07,184 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:07:08,335 | INFO     | src.experiments | [drop_uv_index] Metrics: MAE=665.9718, MSE=1713791.2782
+2025-06-09 03:07:08,344 | INFO     | src.experiments | [drop_uv_index] Saved predictions and metrics to results
+2025-06-09 03:07:08,344 | INFO     | src.experiments | [drop_uv_index] Experiment finished
+2025-06-09 03:07:08,350 | INFO     | run_experiments | === Finished experiment: drop_uv_index ===
+
+2025-06-09 03:07:08,350 | INFO     | run_experiments | All experiments completed successfully
+2025-06-09 03:15:42,617 | INFO     | run_experiments | Starting Ablation experiments
+2025-06-09 03:15:42,629 | INFO     | run_experiments | === Begin experiment: out_no_weather ===
+2025-06-09 03:15:42,630 | INFO     | src.experiments | [out_no_weather] Start experiment
+2025-06-09 03:15:42,700 | INFO     | src.experiments | [out_no_weather] No past covariates used
+2025-06-09 03:15:42,701 | INFO     | src.experiments | [out_no_weather] Creating default model
+2025-06-09 03:15:42,701 | INFO     | src.experiments | [out_no_weather] Fitting model
+2025-06-09 03:17:30,785 | INFO     | src.experiments | [out_no_weather] Making predictions
+2025-06-09 03:17:30,786 | INFO     | src.experiments | [out_no_weather] Making predictions
+2025-06-09 03:17:30,786 | INFO     | src.experiments | [out_no_weather] Rolling forecast
+2025-06-09 03:17:30,827 | INFO     | src.experiments | [out_no_weather] Direct predict
+2025-06-09 03:17:31,989 | INFO     | src.experiments | [out_no_weather] Metrics: MAE=1863.2895, MSE=9521254.0217
+2025-06-09 03:17:31,998 | INFO     | src.experiments | [out_no_weather] Saved predictions and metrics to results
+2025-06-09 03:17:31,998 | INFO     | src.experiments | [out_no_weather] Experiment finished
+2025-06-09 03:17:32,003 | INFO     | run_experiments | === Finished experiment: out_no_weather ===
+
+2025-06-09 03:17:32,003 | INFO     | run_experiments | === Begin experiment: out_full_weather ===
+2025-06-09 03:17:32,003 | INFO     | src.experiments | [out_full_weather] Start experiment
+2025-06-09 03:17:32,065 | INFO     | src.experiments | [out_full_weather] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 03:17:32,067 | INFO     | src.experiments | [out_full_weather] Creating default model
+2025-06-09 03:17:32,067 | INFO     | src.experiments | [out_full_weather] Fitting model
+2025-06-09 03:22:39,516 | INFO     | src.experiments | [out_full_weather] Making predictions
+2025-06-09 03:22:39,517 | INFO     | src.experiments | [out_full_weather] Making predictions
+2025-06-09 03:22:39,517 | INFO     | src.experiments | [out_full_weather] Rolling forecast
+2025-06-09 03:22:39,564 | INFO     | src.experiments | [out_full_weather] Direct predict
+2025-06-09 03:22:39,564 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:22:40,657 | INFO     | src.experiments | [out_full_weather] Metrics: MAE=4151.6036, MSE=27951624.2643
+2025-06-09 03:22:40,666 | INFO     | src.experiments | [out_full_weather] Saved predictions and metrics to results
+2025-06-09 03:22:40,666 | INFO     | src.experiments | [out_full_weather] Experiment finished
+2025-06-09 03:22:40,671 | INFO     | run_experiments | === Finished experiment: out_full_weather ===
+
+2025-06-09 03:22:40,671 | INFO     | run_experiments | === Begin experiment: out_drop_station_pressure ===
+2025-06-09 03:22:40,671 | INFO     | src.experiments | [out_drop_station_pressure] Start experiment
+2025-06-09 03:22:40,734 | INFO     | src.experiments | [out_drop_station_pressure] Using past covariates: ['sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 03:22:40,736 | INFO     | src.experiments | [out_drop_station_pressure] Creating default model
+2025-06-09 03:22:40,736 | INFO     | src.experiments | [out_drop_station_pressure] Fitting model
+2025-06-09 03:27:34,498 | INFO     | src.experiments | [out_drop_station_pressure] Making predictions
+2025-06-09 03:27:34,498 | INFO     | src.experiments | [out_drop_station_pressure] Making predictions
+2025-06-09 03:27:34,498 | INFO     | src.experiments | [out_drop_station_pressure] Rolling forecast
+2025-06-09 03:27:34,547 | INFO     | src.experiments | [out_drop_station_pressure] Direct predict
+2025-06-09 03:27:34,547 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:27:35,713 | INFO     | src.experiments | [out_drop_station_pressure] Metrics: MAE=4333.1383, MSE=29392580.1490
+2025-06-09 03:27:35,721 | INFO     | src.experiments | [out_drop_station_pressure] Saved predictions and metrics to results
+2025-06-09 03:27:35,721 | INFO     | src.experiments | [out_drop_station_pressure] Experiment finished
+2025-06-09 03:27:35,727 | INFO     | run_experiments | === Finished experiment: out_drop_station_pressure ===
+
+2025-06-09 03:27:35,728 | INFO     | run_experiments | === Begin experiment: out_drop_sea_level_pressure ===
+2025-06-09 03:27:35,728 | INFO     | src.experiments | [out_drop_sea_level_pressure] Start experiment
+2025-06-09 03:27:35,792 | INFO     | src.experiments | [out_drop_sea_level_pressure] Using past covariates: ['station_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 03:27:35,794 | INFO     | src.experiments | [out_drop_sea_level_pressure] Creating default model
+2025-06-09 03:27:35,794 | INFO     | src.experiments | [out_drop_sea_level_pressure] Fitting model
+2025-06-09 03:32:25,934 | INFO     | src.experiments | [out_drop_sea_level_pressure] Making predictions
+2025-06-09 03:32:25,934 | INFO     | src.experiments | [out_drop_sea_level_pressure] Making predictions
+2025-06-09 03:32:25,934 | INFO     | src.experiments | [out_drop_sea_level_pressure] Rolling forecast
+2025-06-09 03:32:25,983 | INFO     | src.experiments | [out_drop_sea_level_pressure] Direct predict
+2025-06-09 03:32:25,983 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:32:27,150 | INFO     | src.experiments | [out_drop_sea_level_pressure] Metrics: MAE=4223.0565, MSE=28038021.5302
+2025-06-09 03:32:27,159 | INFO     | src.experiments | [out_drop_sea_level_pressure] Saved predictions and metrics to results
+2025-06-09 03:32:27,159 | INFO     | src.experiments | [out_drop_sea_level_pressure] Experiment finished
+2025-06-09 03:32:27,165 | INFO     | run_experiments | === Finished experiment: out_drop_sea_level_pressure ===
+
+2025-06-09 03:32:27,165 | INFO     | run_experiments | === Begin experiment: out_drop_temperature ===
+2025-06-09 03:32:27,165 | INFO     | src.experiments | [out_drop_temperature] Start experiment
+2025-06-09 03:32:27,232 | INFO     | src.experiments | [out_drop_temperature] Using past covariates: ['station_pressure', 'sea_level_pressure', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 03:32:27,233 | INFO     | src.experiments | [out_drop_temperature] Creating default model
+2025-06-09 03:32:27,233 | INFO     | src.experiments | [out_drop_temperature] Fitting model
+2025-06-09 03:37:20,057 | INFO     | src.experiments | [out_drop_temperature] Making predictions
+2025-06-09 03:37:20,057 | INFO     | src.experiments | [out_drop_temperature] Making predictions
+2025-06-09 03:37:20,057 | INFO     | src.experiments | [out_drop_temperature] Rolling forecast
+2025-06-09 03:37:20,106 | INFO     | src.experiments | [out_drop_temperature] Direct predict
+2025-06-09 03:37:20,106 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:37:21,218 | INFO     | src.experiments | [out_drop_temperature] Metrics: MAE=4276.9728, MSE=28665736.9219
+2025-06-09 03:37:21,226 | INFO     | src.experiments | [out_drop_temperature] Saved predictions and metrics to results
+2025-06-09 03:37:21,226 | INFO     | src.experiments | [out_drop_temperature] Experiment finished
+2025-06-09 03:37:21,233 | INFO     | run_experiments | === Finished experiment: out_drop_temperature ===
+
+2025-06-09 03:37:21,233 | INFO     | run_experiments | === Begin experiment: out_drop_dew_point_temperature ===
+2025-06-09 03:37:21,233 | INFO     | src.experiments | [out_drop_dew_point_temperature] Start experiment
+2025-06-09 03:37:21,297 | INFO     | src.experiments | [out_drop_dew_point_temperature] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 03:37:21,298 | INFO     | src.experiments | [out_drop_dew_point_temperature] Creating default model
+2025-06-09 03:37:21,298 | INFO     | src.experiments | [out_drop_dew_point_temperature] Fitting model
+2025-06-09 03:42:12,759 | INFO     | src.experiments | [out_drop_dew_point_temperature] Making predictions
+2025-06-09 03:42:12,759 | INFO     | src.experiments | [out_drop_dew_point_temperature] Making predictions
+2025-06-09 03:42:12,759 | INFO     | src.experiments | [out_drop_dew_point_temperature] Rolling forecast
+2025-06-09 03:42:12,807 | INFO     | src.experiments | [out_drop_dew_point_temperature] Direct predict
+2025-06-09 03:42:12,807 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:42:13,935 | INFO     | src.experiments | [out_drop_dew_point_temperature] Metrics: MAE=1149.9203, MSE=3434545.0859
+2025-06-09 03:42:13,943 | INFO     | src.experiments | [out_drop_dew_point_temperature] Saved predictions and metrics to results
+2025-06-09 03:42:13,943 | INFO     | src.experiments | [out_drop_dew_point_temperature] Experiment finished
+2025-06-09 03:42:13,949 | INFO     | run_experiments | === Finished experiment: out_drop_dew_point_temperature ===
+
+2025-06-09 03:42:13,949 | INFO     | run_experiments | === Begin experiment: out_drop_relative_humidity ===
+2025-06-09 03:42:13,949 | INFO     | src.experiments | [out_drop_relative_humidity] Start experiment
+2025-06-09 03:42:14,012 | INFO     | src.experiments | [out_drop_relative_humidity] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 03:42:14,013 | INFO     | src.experiments | [out_drop_relative_humidity] Creating default model
+2025-06-09 03:42:14,013 | INFO     | src.experiments | [out_drop_relative_humidity] Fitting model
+2025-06-09 03:47:07,182 | INFO     | src.experiments | [out_drop_relative_humidity] Making predictions
+2025-06-09 03:47:07,183 | INFO     | src.experiments | [out_drop_relative_humidity] Making predictions
+2025-06-09 03:47:07,183 | INFO     | src.experiments | [out_drop_relative_humidity] Rolling forecast
+2025-06-09 03:47:07,230 | INFO     | src.experiments | [out_drop_relative_humidity] Direct predict
+2025-06-09 03:47:07,230 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:47:08,350 | INFO     | src.experiments | [out_drop_relative_humidity] Metrics: MAE=1135.2886, MSE=3533774.8156
+2025-06-09 03:47:08,358 | INFO     | src.experiments | [out_drop_relative_humidity] Saved predictions and metrics to results
+2025-06-09 03:47:08,358 | INFO     | src.experiments | [out_drop_relative_humidity] Experiment finished
+2025-06-09 03:47:08,365 | INFO     | run_experiments | === Finished experiment: out_drop_relative_humidity ===
+
+2025-06-09 03:47:08,365 | INFO     | run_experiments | === Begin experiment: out_drop_vapor_pressure ===
+2025-06-09 03:47:08,365 | INFO     | src.experiments | [out_drop_vapor_pressure] Start experiment
+2025-06-09 03:47:08,434 | INFO     | src.experiments | [out_drop_vapor_pressure] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 03:47:08,435 | INFO     | src.experiments | [out_drop_vapor_pressure] Creating default model
+2025-06-09 03:47:08,435 | INFO     | src.experiments | [out_drop_vapor_pressure] Fitting model
+2025-06-09 03:52:04,229 | INFO     | src.experiments | [out_drop_vapor_pressure] Making predictions
+2025-06-09 03:52:04,230 | INFO     | src.experiments | [out_drop_vapor_pressure] Making predictions
+2025-06-09 03:52:04,230 | INFO     | src.experiments | [out_drop_vapor_pressure] Rolling forecast
+2025-06-09 03:52:04,277 | INFO     | src.experiments | [out_drop_vapor_pressure] Direct predict
+2025-06-09 03:52:04,277 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:52:05,392 | INFO     | src.experiments | [out_drop_vapor_pressure] Metrics: MAE=4139.5859, MSE=27284871.9903
+2025-06-09 03:52:05,400 | INFO     | src.experiments | [out_drop_vapor_pressure] Saved predictions and metrics to results
+2025-06-09 03:52:05,400 | INFO     | src.experiments | [out_drop_vapor_pressure] Experiment finished
+2025-06-09 03:52:05,406 | INFO     | run_experiments | === Finished experiment: out_drop_vapor_pressure ===
+
+2025-06-09 03:52:05,406 | INFO     | run_experiments | === Begin experiment: out_drop_avg_wind_speed ===
+2025-06-09 03:52:05,406 | INFO     | src.experiments | [out_drop_avg_wind_speed] Start experiment
+2025-06-09 03:52:05,469 | INFO     | src.experiments | [out_drop_avg_wind_speed] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 03:52:05,470 | INFO     | src.experiments | [out_drop_avg_wind_speed] Creating default model
+2025-06-09 03:52:05,470 | INFO     | src.experiments | [out_drop_avg_wind_speed] Fitting model
+2025-06-09 03:56:58,769 | INFO     | src.experiments | [out_drop_avg_wind_speed] Making predictions
+2025-06-09 03:56:58,770 | INFO     | src.experiments | [out_drop_avg_wind_speed] Making predictions
+2025-06-09 03:56:58,770 | INFO     | src.experiments | [out_drop_avg_wind_speed] Rolling forecast
+2025-06-09 03:56:58,818 | INFO     | src.experiments | [out_drop_avg_wind_speed] Direct predict
+2025-06-09 03:56:58,818 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 03:56:59,923 | INFO     | src.experiments | [out_drop_avg_wind_speed] Metrics: MAE=4287.0959, MSE=28956898.5530
+2025-06-09 03:56:59,932 | INFO     | src.experiments | [out_drop_avg_wind_speed] Saved predictions and metrics to results
+2025-06-09 03:56:59,932 | INFO     | src.experiments | [out_drop_avg_wind_speed] Experiment finished
+2025-06-09 03:56:59,938 | INFO     | run_experiments | === Finished experiment: out_drop_avg_wind_speed ===
+
+2025-06-09 03:56:59,938 | INFO     | run_experiments | === Begin experiment: out_drop_avg_wind_direction ===
+2025-06-09 03:56:59,938 | INFO     | src.experiments | [out_drop_avg_wind_direction] Start experiment
+2025-06-09 03:57:00,000 | INFO     | src.experiments | [out_drop_avg_wind_direction] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 03:57:00,002 | INFO     | src.experiments | [out_drop_avg_wind_direction] Creating default model
+2025-06-09 03:57:00,002 | INFO     | src.experiments | [out_drop_avg_wind_direction] Fitting model
+2025-06-09 04:01:55,470 | INFO     | src.experiments | [out_drop_avg_wind_direction] Making predictions
+2025-06-09 04:01:55,470 | INFO     | src.experiments | [out_drop_avg_wind_direction] Making predictions
+2025-06-09 04:01:55,470 | INFO     | src.experiments | [out_drop_avg_wind_direction] Rolling forecast
+2025-06-09 04:01:55,518 | INFO     | src.experiments | [out_drop_avg_wind_direction] Direct predict
+2025-06-09 04:01:55,518 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 04:01:56,635 | INFO     | src.experiments | [out_drop_avg_wind_direction] Metrics: MAE=1065.8000, MSE=3186606.2143
+2025-06-09 04:01:56,642 | INFO     | src.experiments | [out_drop_avg_wind_direction] Saved predictions and metrics to results
+2025-06-09 04:01:56,642 | INFO     | src.experiments | [out_drop_avg_wind_direction] Experiment finished
+2025-06-09 04:01:56,648 | INFO     | run_experiments | === Finished experiment: out_drop_avg_wind_direction ===
+
+2025-06-09 04:01:56,649 | INFO     | run_experiments | === Begin experiment: out_drop_precipitation ===
+2025-06-09 04:01:56,649 | INFO     | src.experiments | [out_drop_precipitation] Start experiment
+2025-06-09 04:01:56,713 | INFO     | src.experiments | [out_drop_precipitation] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 04:01:56,714 | INFO     | src.experiments | [out_drop_precipitation] Creating default model
+2025-06-09 04:01:56,714 | INFO     | src.experiments | [out_drop_precipitation] Fitting model
+2025-06-09 04:06:59,620 | INFO     | src.experiments | [out_drop_precipitation] Making predictions
+2025-06-09 04:06:59,620 | INFO     | src.experiments | [out_drop_precipitation] Making predictions
+2025-06-09 04:06:59,620 | INFO     | src.experiments | [out_drop_precipitation] Rolling forecast
+2025-06-09 04:06:59,668 | INFO     | src.experiments | [out_drop_precipitation] Direct predict
+2025-06-09 04:06:59,668 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 04:07:00,795 | INFO     | src.experiments | [out_drop_precipitation] Metrics: MAE=1079.9430, MSE=3195281.6541
+2025-06-09 04:07:00,803 | INFO     | src.experiments | [out_drop_precipitation] Saved predictions and metrics to results
+2025-06-09 04:07:00,803 | INFO     | src.experiments | [out_drop_precipitation] Experiment finished
+2025-06-09 04:07:00,809 | INFO     | run_experiments | === Finished experiment: out_drop_precipitation ===
+
+2025-06-09 04:07:00,810 | INFO     | run_experiments | === Begin experiment: out_drop_precipitation_hours ===
+2025-06-09 04:07:00,810 | INFO     | src.experiments | [out_drop_precipitation_hours] Start experiment
+2025-06-09 04:07:00,871 | INFO     | src.experiments | [out_drop_precipitation_hours] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 04:07:00,872 | INFO     | src.experiments | [out_drop_precipitation_hours] Creating default model
+2025-06-09 04:07:00,872 | INFO     | src.experiments | [out_drop_precipitation_hours] Fitting model
+2025-06-09 04:12:05,165 | INFO     | src.experiments | [out_drop_precipitation_hours] Making predictions
+2025-06-09 04:12:05,166 | INFO     | src.experiments | [out_drop_precipitation_hours] Making predictions
+2025-06-09 04:12:05,166 | INFO     | src.experiments | [out_drop_precipitation_hours] Rolling forecast
+2025-06-09 04:12:05,217 | INFO     | src.experiments | [out_drop_precipitation_hours] Direct predict
+2025-06-09 04:12:05,217 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 04:12:06,353 | INFO     | src.experiments | [out_drop_precipitation_hours] Metrics: MAE=1969.4921, MSE=9839083.7045
+2025-06-09 04:12:06,361 | INFO     | src.experiments | [out_drop_precipitation_hours] Saved predictions and metrics to results
+2025-06-09 04:12:06,361 | INFO     | src.experiments | [out_drop_precipitation_hours] Experiment finished
+2025-06-09 04:12:06,367 | INFO     | run_experiments | === Finished experiment: out_drop_precipitation_hours ===
+
+2025-06-09 04:12:06,368 | INFO     | run_experiments | === Begin experiment: out_drop_sunshine_hours ===
+2025-06-09 04:12:06,368 | INFO     | src.experiments | [out_drop_sunshine_hours] Start experiment
+2025-06-09 04:12:06,428 | INFO     | src.experiments | [out_drop_sunshine_hours] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 04:12:06,430 | INFO     | src.experiments | [out_drop_sunshine_hours] Creating default model
+2025-06-09 04:12:06,430 | INFO     | src.experiments | [out_drop_sunshine_hours] Fitting model
+2025-06-09 04:17:10,278 | INFO     | src.experiments | [out_drop_sunshine_hours] Making predictions
+2025-06-09 04:17:10,279 | INFO     | src.experiments | [out_drop_sunshine_hours] Making predictions
+2025-06-09 04:17:10,279 | INFO     | src.experiments | [out_drop_sunshine_hours] Rolling forecast
+2025-06-09 04:17:10,328 | INFO     | src.experiments | [out_drop_sunshine_hours] Direct predict
+2025-06-09 04:17:10,328 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 04:17:11,453 | INFO     | src.experiments | [out_drop_sunshine_hours] Metrics: MAE=1856.4873, MSE=9007684.3496
+2025-06-09 04:17:11,461 | INFO     | src.experiments | [out_drop_sunshine_hours] Saved predictions and metrics to results
+2025-06-09 04:17:11,461 | INFO     | src.experiments | [out_drop_sunshine_hours] Experiment finished
+2025-06-09 04:17:11,468 | INFO     | run_experiments | === Finished experiment: out_drop_sunshine_hours ===
+
+2025-06-09 04:17:11,468 | INFO     | run_experiments | === Begin experiment: out_drop_pressure_trend ===
+2025-06-09 04:17:11,468 | INFO     | src.experiments | [out_drop_pressure_trend] Start experiment
+2025-06-09 04:17:11,536 | INFO     | src.experiments | [out_drop_pressure_trend] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'solar_radiation', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 04:17:11,537 | INFO     | src.experiments | [out_drop_pressure_trend] Creating default model
+2025-06-09 04:17:11,538 | INFO     | src.experiments | [out_drop_pressure_trend] Fitting model
+2025-06-09 04:22:13,078 | INFO     | src.experiments | [out_drop_pressure_trend] Making predictions
+2025-06-09 04:22:13,079 | INFO     | src.experiments | [out_drop_pressure_trend] Making predictions
+2025-06-09 04:22:13,079 | INFO     | src.experiments | [out_drop_pressure_trend] Rolling forecast
+2025-06-09 04:22:13,126 | INFO     | src.experiments | [out_drop_pressure_trend] Direct predict
+2025-06-09 04:22:13,126 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 04:22:14,227 | INFO     | src.experiments | [out_drop_pressure_trend] Metrics: MAE=4322.3775, MSE=29220625.3533
+2025-06-09 04:22:14,236 | INFO     | src.experiments | [out_drop_pressure_trend] Saved predictions and metrics to results
+2025-06-09 04:22:14,236 | INFO     | src.experiments | [out_drop_pressure_trend] Experiment finished
+2025-06-09 04:22:14,242 | INFO     | run_experiments | === Finished experiment: out_drop_pressure_trend ===
+
+2025-06-09 04:22:14,243 | INFO     | run_experiments | === Begin experiment: out_drop_solar_radiation ===
+2025-06-09 04:22:14,243 | INFO     | src.experiments | [out_drop_solar_radiation] Start experiment
+2025-06-09 04:22:14,307 | INFO     | src.experiments | [out_drop_solar_radiation] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'saturation_vapor_pressure', 'uv_index']
+2025-06-09 04:22:14,308 | INFO     | src.experiments | [out_drop_solar_radiation] Creating default model
+2025-06-09 04:22:14,308 | INFO     | src.experiments | [out_drop_solar_radiation] Fitting model
+2025-06-09 04:27:12,197 | INFO     | src.experiments | [out_drop_solar_radiation] Making predictions
+2025-06-09 04:27:12,197 | INFO     | src.experiments | [out_drop_solar_radiation] Making predictions
+2025-06-09 04:27:12,197 | INFO     | src.experiments | [out_drop_solar_radiation] Rolling forecast
+2025-06-09 04:27:12,246 | INFO     | src.experiments | [out_drop_solar_radiation] Direct predict
+2025-06-09 04:27:12,246 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 04:27:13,364 | INFO     | src.experiments | [out_drop_solar_radiation] Metrics: MAE=4327.6132, MSE=29303586.6956
+2025-06-09 04:27:13,372 | INFO     | src.experiments | [out_drop_solar_radiation] Saved predictions and metrics to results
+2025-06-09 04:27:13,372 | INFO     | src.experiments | [out_drop_solar_radiation] Experiment finished
+2025-06-09 04:27:13,379 | INFO     | run_experiments | === Finished experiment: out_drop_solar_radiation ===
+
+2025-06-09 04:27:13,379 | INFO     | run_experiments | === Begin experiment: out_drop_saturation_vapor_pressure ===
+2025-06-09 04:27:13,379 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Start experiment
+2025-06-09 04:27:13,447 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'uv_index']
+2025-06-09 04:27:13,448 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Creating default model
+2025-06-09 04:27:13,449 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Fitting model
+2025-06-09 04:32:00,479 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Making predictions
+2025-06-09 04:32:00,480 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Making predictions
+2025-06-09 04:32:00,480 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Rolling forecast
+2025-06-09 04:32:00,530 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Direct predict
+2025-06-09 04:32:00,530 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 04:32:01,692 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Metrics: MAE=3549.3265, MSE=22034068.5204
+2025-06-09 04:32:01,700 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Saved predictions and metrics to results
+2025-06-09 04:32:01,700 | INFO     | src.experiments | [out_drop_saturation_vapor_pressure] Experiment finished
+2025-06-09 04:32:01,707 | INFO     | run_experiments | === Finished experiment: out_drop_saturation_vapor_pressure ===
+
+2025-06-09 04:32:01,707 | INFO     | run_experiments | === Begin experiment: out_drop_uv_index ===
+2025-06-09 04:32:01,707 | INFO     | src.experiments | [out_drop_uv_index] Start experiment
+2025-06-09 04:32:01,780 | INFO     | src.experiments | [out_drop_uv_index] Using past covariates: ['station_pressure', 'sea_level_pressure', 'temperature', 'dew_point_temperature', 'relative_humidity', 'vapor_pressure', 'avg_wind_speed', 'avg_wind_direction', 'precipitation', 'precipitation_hours', 'sunshine_hours', 'pressure_trend', 'solar_radiation', 'saturation_vapor_pressure']
+2025-06-09 04:32:01,782 | INFO     | src.experiments | [out_drop_uv_index] Creating default model
+2025-06-09 04:32:01,782 | INFO     | src.experiments | [out_drop_uv_index] Fitting model
+2025-06-09 04:36:55,445 | INFO     | src.experiments | [out_drop_uv_index] Making predictions
+2025-06-09 04:36:55,446 | INFO     | src.experiments | [out_drop_uv_index] Making predictions
+2025-06-09 04:36:55,446 | INFO     | src.experiments | [out_drop_uv_index] Rolling forecast
+2025-06-09 04:36:55,495 | INFO     | src.experiments | [out_drop_uv_index] Direct predict
+2025-06-09 04:36:55,495 | WARNING  | darts.models.forecasting.forecasting_model | `predict()` was called with `n > output_chunk_length`: using auto-regression to forecast the values after `output_chunk_length` points. The model will access `(n - output_chunk_length)` future values of your `past_covariates` (relative to the first predicted time step). To hide this warning, set `show_warnings=False`.
+2025-06-09 04:36:56,623 | INFO     | src.experiments | [out_drop_uv_index] Metrics: MAE=1861.7440, MSE=9046171.3147
+2025-06-09 04:36:56,631 | INFO     | src.experiments | [out_drop_uv_index] Saved predictions and metrics to results
+2025-06-09 04:36:56,631 | INFO     | src.experiments | [out_drop_uv_index] Experiment finished
+2025-06-09 04:36:56,638 | INFO     | run_experiments | === Finished experiment: out_drop_uv_index ===
+
+2025-06-09 04:36:56,638 | INFO     | run_experiments | All experiments completed successfully

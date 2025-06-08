@@ -1,0 +1,10 @@
+experiment,best_params,MAE,MSE
+full_weather,"{""lags"": 24, ""lags_past_covariates"": 24, ""lags_future_covariates"": [0], ""output_chunk_length"": 3, ""n_estimators"": 50, ""max_depth"": 10, ""random_state"": 42}",688.8640554702315,1855661.2192633783
+full_weather,"{""lags"": 168, ""lags_past_covariates"": 24, ""lags_future_covariates"": [0], ""output_chunk_length"": 3, ""n_estimators"": 50, ""max_depth"": 10, ""random_state"": 42}",680.4234866216434,1822711.5352795592
+full_weather,"{""lags"": 24, ""lags_past_covariates"": 24, ""lags_future_covariates"": [0], ""output_chunk_length"": 3, ""n_estimators"": 100, ""max_depth"": 15, ""random_state"": 42}",653.2246801629993,1745511.676805358
+full_weather,"{""lags"": 48, ""lags_past_covariates"": 24, ""lags_future_covariates"": [0], ""output_chunk_length"": 3, ""n_estimators"": 100, ""max_depth"": 15, ""random_state"": 42}",622.5452702373758,1664122.4392633033
+full_weather,"{""lags"": 72, ""lags_past_covariates"": 24, ""lags_future_covariates"": [0], ""output_chunk_length"": 3, ""n_estimators"": 100, ""max_depth"": 15, ""random_state"": 42}",665.6402491455384,1733652.7739590567
+full_weather,"{""lags"": 96, ""lags_past_covariates"": 24, ""lags_future_covariates"": [0], ""output_chunk_length"": 3, ""n_estimators"": 100, ""max_depth"": 15, ""random_state"": 42}",672.477718351129,1715824.4819850202
+full_weather,"{""lags"": 120, ""lags_past_covariates"": 24, ""lags_future_covariates"": [0], ""output_chunk_length"": 3, ""n_estimators"": 100, ""max_depth"": 15, ""random_state"": 42}",599.2119303560464,1584904.9855454615
+full_weather,"{""lags"": 144, ""lags_past_covariates"": 24, ""lags_future_covariates"": [0], ""output_chunk_length"": 3, ""n_estimators"": 100, ""max_depth"": 15, ""random_state"": 42}",754.8382177767621,2132967.16798142
+full_weather,"{""lags"": 168, ""lags_past_covariates"": 24, ""lags_future_covariates"": [0], ""output_chunk_length"": 3, ""n_estimators"": 100, ""max_depth"": 15, ""random_state"": 42}",646.9800283355083,1954404.145649744
